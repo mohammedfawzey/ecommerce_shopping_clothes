@@ -8,3 +8,5 @@ Using:
 --vue js
 --vuetify
 --mixitup
+
+domain____ https://regal-hamster-e7e855.netlify.app/ ______________
